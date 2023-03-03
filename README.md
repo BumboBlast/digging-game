@@ -1,2 +1,2 @@
-# dunder dig
+# Digging Game
  godot game
